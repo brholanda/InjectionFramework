@@ -1,4 +1,4 @@
-package br.com.fatecmogidascruzes.eletivaweb.armazenamento;
+package br.com.injectionframework.domain;
 
 public interface IServicoArmazenamento {
 	

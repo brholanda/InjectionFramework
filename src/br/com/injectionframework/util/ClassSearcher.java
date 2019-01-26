@@ -1,4 +1,4 @@
-package br.com.fatecmogidascruzes.eletivaweb.util;
+package br.com.injectionframework.util;
 
 import java.io.File;
 import java.io.IOException;

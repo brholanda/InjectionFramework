@@ -1,4 +1,4 @@
-package br.com.fatecmogidascruzes.eletivaweb.configurations;
+package br.com.injectionframework.configurations;
 
 public class Mapping {
 	private String path;

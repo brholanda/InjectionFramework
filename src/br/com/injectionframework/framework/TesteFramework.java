@@ -1,13 +1,13 @@
-package br.com.fatecmogidascruzes.eletivaweb.framework;
+package br.com.injectionframework.framework;
 
 import java.io.IOException;
 import java.lang.reflect.Field;
 import java.util.HashMap;
 import java.util.Map;
 
-import br.com.fatecmogidascruzes.eletivaweb.configurations.AutoInject;
-import br.com.fatecmogidascruzes.eletivaweb.configurations.Inject;
-import br.com.fatecmogidascruzes.eletivaweb.util.ClassSearcher;
+import br.com.injectionframework.configurations.AutoInject;
+import br.com.injectionframework.configurations.Inject;
+import br.com.injectionframework.util.ClassSearcher;
 
 public class TesteFramework {
 

@@ -1,4 +1,4 @@
-package br.com.fatecmogidascruzes.eletivaweb.framework;
+package br.com.injectionframework.framework;
 
 import java.util.HashMap;
 import java.util.Map;
