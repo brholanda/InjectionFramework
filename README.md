@@ -1,3 +1,11 @@
-A DEPEDENCY INJECTION FRAMEWORK
+# Injection FrameWork
 
-TO TEST, RUN THE br.com.fatecmogidascruzes.eletivaweb.framework.Main.java CLASS
+A dependency injection framework
+
+## Getting Started
+
+To test, just run ``` Main.class```
+> br.com.injectionframework.framework.Main.java CLASS >
+
+## Contributors
+- @JVZELLER
